@@ -1,0 +1,15 @@
+{
+  "name": "reto_3_automationtesting",
+  "version": "1.0.0",
+  "description": "Este proyecto contiene scripts y recursos para la ejecución de pruebas en mi página de Hoteles. Se utiliza un enfoque de pruebas funcionales para asegurar que la aplicación cumpla con los requisitos esperados de funcionalidad.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.4"
+  }
+}
